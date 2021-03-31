@@ -4,7 +4,9 @@
 Tool to analyze music from youtube videos / playlists.
 
 ## First try
-Bug ! Mais ok ! [Résultats](./Other/result.txt "Musiques trouvées lors de la 1ère exécution")
+Premier essai avec la playlist de Wankil Studio, "Laik et Terracid" contenant 692 vidéos actuellement
+Bug ! Mais ok !
+[Résultats](./Other/result.txt "Musiques trouvées lors de la 1ère exécution")
 
 ![alt text](./Other/FirstTry.jpg "First try result")
 
