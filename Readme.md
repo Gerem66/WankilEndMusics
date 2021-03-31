@@ -8,17 +8,17 @@ Bug ! Mais ok !
 ![alt text](./Other/FirstTry.jpg "First try result")
 
 ## TODO
-- [] Commenter
-- [] Ecran de chargement au début (particulièrement pour les chargement des grandes playlist)
-- [] Plusieurs sons par extrait
-- [] Ajouter une option pour pas save les sons en double
-- [] Ajouter une option pour enregistrer les sons par vidéos
-- [] Ajouter un timer
-- [] Refaire l'interface
-- [] Min et max pour le nombre de threads
-- [] Ajouter les arguments pour rendre le code utilisable sans l'éditer
-- [] Déplacer les vidéos à la fin si ClearCache == False
-- [] Récupérer en 1er temps une playlist avec moins d'éléments pour commencer le multithreading plus tôt
+- [ ] Commenter
+- [ ] Ecran de chargement au début (particulièrement pour les chargement des grandes playlist)
+- [ ] Plusieurs sons par extrait
+- [ ] Ajouter une option pour pas save les sons en double
+- [ ] Ajouter une option pour enregistrer les sons par vidéos
+- [ ] Ajouter un timer
+- [ ] Refaire l'interface
+- [ ] Min et max pour le nombre de threads
+- [ ] Ajouter les arguments pour rendre le code utilisable sans l'éditer
+- [ ] Déplacer les vidéos à la fin si ClearCache == False
+- [ ] Récupérer en 1er temps une playlist avec moins d'éléments pour commencer le multithreading plus tôt
 
 ## Bug
 - [] Pourquoi 1282 au lieu de 650-692 ? (nombre de vidéos)
