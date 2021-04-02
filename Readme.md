@@ -24,7 +24,7 @@ Bug ! Mais ok !
 - [ ] Récupérer en 1er temps une playlist avec moins d'éléments pour commencer le multithreading plus tôt
 
 ## Bug
-- [] Pourquoi 1282 au lieu de 650-692 ? (nombre de vidéos)
+- [ ] Pourquoi 1282 au lieu de 650-692 ? (nombre de vidéos)
 
 ## Tool
 Options tool
