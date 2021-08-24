@@ -21,7 +21,7 @@ Bug ! Mais ok !
 - [ ] Min et max pour le nombre de threads
 - [ ] Ajouter les arguments pour rendre le code utilisable sans l'éditer
 - [ ] Déplacer les vidéos à la fin si ClearCache == False
-- [ ] Récupérer en 1er temps une playlist avec moins d'éléments pour commencer le multithreading plus tôt
+- [ ] Récupérer en 1er temps une partie de la playlist pour commencer le multithreading plus tôt
 
 ## Bug
 - [ ] Pourquoi 1282 au lieu de 650-692 ? (nombre de vidéos)
