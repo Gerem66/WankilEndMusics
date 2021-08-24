@@ -27,7 +27,7 @@ Bug ! Mais ok !
 - [ ] Pourquoi 1282 au lieu de 650-692 ? (nombre de vidéos)
 
 ## Tool
-Options tool
+Idées d'options pour aller plus loin
 ```
 PlaylistAnalyser [options] URL
     -d, --download DIR          Save all songs in dir
