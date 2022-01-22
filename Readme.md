@@ -22,6 +22,8 @@ Bug ! Mais ok !
 - [ ] Ajouter les arguments pour rendre le code utilisable sans l'éditer
 - [ ] Déplacer les vidéos à la fin si ClearCache == False
 - [ ] Récupérer en 1er temps une partie de la playlist pour commencer le multithreading plus tôt
+- [ ] Proposer de se connecter pour dl les vidéos -18
+- [ ] Gérer les erreurs
 
 ## Bug
 - [ ] Pourquoi 1282 au lieu de 650-692 ? (nombre de vidéos)
