@@ -1,9 +1,11 @@
 # Wankil music downloader
 
 ## Description
-Tool to analyze music from youtube videos / playlists.
+
+Outil pour récupérer les musiques utilisées durant les génériques YouTube (10 dernières secondes).
 
 ## First try
+
 Premier essai avec la playlist de Wankil Studio, "Laik et Terracid" contenant 692 vidéos actuellement  
 Bug ! Mais ok !  
 [Résultats](./Other/result.txt "Musiques trouvées lors de la 1ère exécution")  
